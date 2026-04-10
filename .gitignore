@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+env/
+.venv
+
+# IDE settings (если используешь VS Code или PyCharm)
+.vscode/
+.idea/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Testing
+.pytest_cache/
+.coverage
+
+# MyPy
+.mypy_cache/
+
+# Environment variables
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Logs and databases
+*.log
+*.sqlite3
